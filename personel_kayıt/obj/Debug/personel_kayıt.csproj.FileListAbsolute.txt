@@ -1,0 +1,10 @@
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Form1.resources
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\Enes\Desktop\form uygulamaları\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
